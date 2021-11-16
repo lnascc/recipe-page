@@ -1,2 +1,4 @@
 # recipe-page
-Desafio piloto: Página de receita do curso Discover da Rocketseat
+## Desafio Piloto: Página de Receita
+<img src="./img-challenge.png">
+
