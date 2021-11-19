@@ -1,4 +1,4 @@
-# recipe-page
+# 👩‍🍳 recipe-page
 ## Desafio Piloto: Página de Receita
 
 - Desafio feito durante o curso Discovery da @Rocketseat.
